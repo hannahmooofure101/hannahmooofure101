@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm hannahmooofure101
 
-<!--
-**hannahmooofure101/hannahmooofure101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏓 🏓 💡 Dedicated to mastering libraries 🏓 🏓 💡
 
-Here are some ideas to get you started:
+## About Me
+🏄 🚵 🏒 🎣 Exploring the world of machine learning 🏄 🚵 🏒 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎱 🚀 🎽 🛶 A hacker in product management 🎱 🚀 🎽 🛶
+
+### Fun Facts
+🏏 🏓 A passionate developer who loves mobile development 🏏 🏓
+
+---
+🏊 🥁 🥊 🏏 🛶 Thanks for visiting my profile! 🏊 🎮 🏒 🏑 🎾
